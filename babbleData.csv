@@ -1,0 +1,105 @@
+id,category,value,color
+MESH,IoT,10,#7fbfff
+Arduino,IoT,10,#7fbfff
+Raspberry Pi,IoT,8,#7fbfff
+myThings Developers,IoT,7,#7fbfff
+デバイスコネクトWebAPI,IoT,4,#7fbfff
+mythingsアプリ,IoT,4,#7fbfff
+mbed,IoT,3,#7fbfff
+ほこりセンサ(SHARP GP2Y1010AU)),IoT,1,#7fbfff
+電通大梶本研究室電気触覚デバイス,IoT,1,#7fbfff
+TOSHIBA TA7291P,IoT,1,#7fbfff
+Speed WIO,IoT,1,#7fbfff
+Smart Tennis Sensor,IoT,1,#7fbfff
+konashi,IoT,1,#7fbfff
+Intel_ Edison開発ボード,IoT,1,#7fbfff
+GR-SAKURA,IoT,1,#7fbfff
+FRISKケースに入るEdison用ベース基板 Henry,IoT,1,#7fbfff
+Sphero(スフィロ),ガジェット,2,#bfff7f
+pepper,ガジェット,2,#bfff7f
+Kinect,ガジェット,2,#bfff7f
+Hue,ガジェット,2,#bfff7f
+Sota,ガジェット,1,#bfff7f
+RoBoHoN,ガジェット,1,#bfff7f
+Pebble,ガジェット,1,#bfff7f
+MIO,ガジェット,1,#bfff7f
+HTC VIVE,ガジェット,1,#bfff7f
+HTC View,ガジェット,1,#bfff7f
+Dyson DC-45,ガジェット,1,#bfff7f
+Microsoft Azure,クラウド・データ連携,10,#ffbf7f
+kintone API,クラウド・データ連携,7,#ffbf7f
+AWS,クラウド・データ連携,4,#ffbf7f
+IFTTT,クラウド・データ連携,2,#ffbf7f
+Firebase,クラウド・データ連携,2,#ffbf7f
+ニフティクラウドmobile backend,クラウド・データ連携,1,#ffbf7f
+ニフティクラウド,クラウド・データ連携,1,#ffbf7f
+さくらのクラウド,クラウド・データ連携,1,#ffbf7f
+Milkcocoa,クラウド・データ連携,1,#ffbf7f
+DataSpider Servista,クラウド・データ連携,1,#ffbf7f
+IBM Bluemix,プラットフォーム,5,#ff7f7f
+Facebook API,プラットフォーム,3,#ff7f7f
+Unity,プラットフォーム,2,#ff7f7f
+Messing API,プラットフォーム,2,#ff7f7f
+Facebook Messenger Platform,プラットフォーム,2,#ff7f7f
+ニフティクラウドC4SA,プラットフォーム,1,#ff7f7f
+Universal Windows App,プラットフォーム,1,#ff7f7f
+SDK for Node.jsTM,プラットフォーム,1,#ff7f7f
+iroha,プラットフォーム,1,#ff7f7f
+heroku,プラットフォーム,1,#ff7f7f
+Microsoft Cognitive Service,認識・解析技術,7,#ff99cc
+フェアリーデバイゼズ株式会社 mimi_,認識・解析技術,1,#ff99cc
+顔認証(グローリー),認識・解析技術,1,#ff99cc
+WebSpeechAPI,認識・解析技術,1,#ff99cc
+Visual Recognition(BETA)(IBM Watson),認識・解析技術,1,#ff99cc
+Food Analysis API,認識・解析技術,1,#ff99cc
+FACE++,認識・解析技術,1,#ff99cc
+chainer,認識・解析技術,1,#ff99cc
+日本語音声合成API AITalk WebAPI,音声,3,#a3ffff
+Open JTalk,音声,1,#a3ffff
+Google Cloud Speech API,音声,1,#a3ffff
+AppleSpeechFramework,音声,1,#a3ffff
+音声認識API,音声,1,#a3ffff
+音声合成API,音声,1,#a3ffff
+Yahoo! Open Local Platform,地図・ナビ,3,#a3ffd1
+GoogleMap,地図・ナビ,2,#a3ffd1
+Bing Maps API,地図・ナビ,2,#a3ffd1
+駅すぱあと Webサービス,地図・ナビ,1,#a3ffd1
+いつもNAVI API,地図・ナビ,1,#a3ffd1
+Google Maps API,地図・ナビ,1,#a3ffd1
+docomo言語解析API,テキスト解析,3,#ffffa3
+人工知能ボットAPI,テキスト解析,1,#ffffa3
+感情解析API,テキスト解析,1,#ffffa3
+Repl-AI,テキスト解析,1,#ffffa3
+Natural Language Classifier(BETA)(IBM Watson),テキスト解析,1,#ffffa3
+ぐるなびレストラン検索API,グルメ,3,#ffe5cc
+ホットペッパーwebサービス,グルメ,1,#ffe5cc
+ぐるなび応援口コミAPI,グルメ,1,#ffe5cc
+Fusion 360 API,コンテンツ,1,#ffffe0
+AutoDesk 123D,コンテンツ,1,#ffffe0
+Apache,コンテンツ,1,#ffffe0
+Monaca,スマホアプリ開発,3,#ffeaff
+Xamarin,スマホアプリ開発,1,#ffeaff
+Onsen UI,スマホアプリ開発,1,#ffeaff
+NOBY API,その他,1,#ffcce5
+Sansan Open API,その他,1,#ffcce5
+ 雑談対話API,その他,1,#ffcce5
+PayPal REST API,財務・金融・支払,1,#d6ffea
+docomoポイントサービスAPI,財務・金融・支払,1,#d6ffea
+Azureポイント集計,財務・金融・支払,1,#d6ffea
+楽天トラベルキーワード検索API,旅行,1,#fff4f4
+じゃらんWebサービス 温泉検索API,旅行,2,#fff4f4
+KADOKAWA TV番組・EPGの取材情報データ,TV,2,#b9c3c9
+Node-RED Starter,Utility,2,#b8b6c1
+Watson,コグニティブ・テクノロジー,2,#c7bdc2
+楽天市場商品検索API,ショッピング,3,#c9c8bd
+楽天レシピ検索API,生活,1,#b9c2bb
+Slack API,チームコラボレーション,3,#929a9f
+テレビチャンネル認識SDK(Evixar ACR SDK),テレビ,2,#9e959a
+トレンド記事抽出API,ニュース,1,#9e948f
+openFrameworks,フレームワーク,3,#9f9f95
+Microsoft Translator,翻訳,1,#c8bcb5
+SendGrid,メール,2,#929099
+OpenCV,ライブラリ,2,#929994
+画像認識API,画像情報・処理,1,#aaaaaa
+Twilio for KDDI Web Communications,電話,7,#777777
+Personality Insights(IBM Watson),文章の中で使われている単語の傾向や頻度などから、その人の性格を分析,1,#555555
